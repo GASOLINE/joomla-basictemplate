@@ -8,6 +8,8 @@ Perfect Web Team (https://perfectwebteam.nl/)
 
 Rene Kreijveld (https://github.com/renekreijveld)
 
+Marc Pliester (https://gasoline.nl)
+
 
 ## Basis
 Deze template is op basis van de gebruikte basis opzet van Rachel Walraven gemaakt, haar basis is te vinden op: https://www.joomlacommunity.nl/downloads/divers/16-basistemplate-rachel-walraven.
